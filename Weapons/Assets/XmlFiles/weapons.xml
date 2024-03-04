@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<item>
+		<id>1</id>
+		<type>Sword</type>
+		<name>Steel Sword</name>
+		<upgrade>Enhanced</upgrade>
+		<damage>24</damage>
+		<attackspeed>Medium</attackspeed>
+		<reach>0.9m</reach>
+		<hand>One-handed</hand>
+		<description>A finely crafted steel sword, known for its balance and durability.</description>
+	</item>
+	<item>
+		<id>2</id>
+		<type>Axe</type>
+		<name>Battle Axe</name>
+		<upgrade>Legendary</upgrade>
+		<damage>32</damage>
+		<attackspeed>Slow</attackspeed>
+		<reach>1.2m</reach>
+		<hand>Two-handed</hand>
+		<description>A fearsome battle axe, forged by the legendary smiths of old, said to cleave through armor like butter.</description>
+	</item>
+	<item>
+		<id>3</id>
+		<type>Bow</type>
+		<name>Longbow</name>
+		<upgrade>Mastercrafted</upgrade>
+		<damage>28</damage>
+		<attackspeed>Fast</attackspeed>
+		<reach>1.5m</reach>
+		<hand>Two-handed</hand>
+		<description>A masterfully crafted longbow, capable of striking targets with pinpoint accuracy from great distances.</description>
+	</item>
+	<item>
+		<id>4</id>
+		<type>Dagger</type>
+		<name>Poisoned Dagger</name>
+		<upgrade>Enchanted</upgrade>
+		<damage>20</damage>
+		<attackspeed>Very Fast</attackspeed>
+		<reach>0.3m</reach>
+		<hand>One-handed</hand>
+		<description>An enchanted dagger coated with a deadly poison, perfect for swift and silent eliminations.</description>
+	</item>
+	<item>
+		<id>5</id>
+		<type>Mace</type>
+		<name>Spiked Mace</name>
+		<upgrade>Forged</upgrade>
+		<damage>36</damage>
+		<attackspeed>Slow</attackspeed>
+		<reach>1.1m</reach>
+		<hand>One-handed</hand>
+		<description>A brutal spiked mace, designed to crush bones and armor alike in close combat.</description>
+	</item>
+	<item>
+		<id>6</id>
+		<type>Staff</type>
+		<name>Elemental Staff</name>
+		<upgrade>Epic</upgrade>
+		<damage>30</damage>
+		<attackspeed>Medium</attackspeed>
+		<reach>1.8m</reach>
+		<hand>Two-handed</hand>
+		<description>An epic staff infused with elemental energies, capable of unleashing devastating spells.</description>
+	</item>
+	<item>
+		<id>7</id>
+		<type>Spear</type>
+		<name>Dragon Spear</name>
+		<upgrade>Mythical</upgrade>
+		<damage>40</damage>
+		<attackspeed>Medium</attackspeed>
+		<reach>2.1m</reach>
+		<hand>Two-handed</hand>
+		<description>A mythical spear said to be forged from the scales of dragons, imbued with the power of fire and fury.</description>
+	</item>
+	<item>
+		<id>8</id>
+		<type>Hammer</type>
+		<name>Thunder Hammer</name>
+		<upgrade>Divine</upgrade>
+		<damage>38</damage>
+		<attackspeed>Slow</attackspeed>
+		<reach>1.4m</reach>
+		<hand>Two-handed</hand>
+		<description>A divine hammer crackling with the power of thunder, capable of sundering the earth itself.</description>
+	</item>
+	<item>
+		<id>9</id>
+		<type>Greatsword</type>
+		<name>Excalibur</name>
+		<upgrade>Exalted</upgrade>
+		<damage>42</damage>
+		<attackspeed>Medium</attackspeed>
+		<reach>1.7m</reach>
+		<hand>Two-handed</hand>
+		<description>The legendary Excalibur, a greatsword of kings, said to choose its wielder and bring forth victory in battle.</description>
+	</item>
+	<item>
+		<id>10</id>
+		<type>Scythe</type>
+		<name>Soul Reaper</name>
+		<upgrade>Dark</upgrade>
+		<damage>34</damage>
+		<attackspeed>Medium</attackspeed>
+		<reach>2.0m</reach>
+		<hand>Two-handed</hand>
+		<description>A dark scythe whispered to harvest souls, its blade sharp enough to cut through the fabric of reality itself.</description>
+	</item>
+</root>
